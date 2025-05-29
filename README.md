@@ -15,6 +15,21 @@
 
 <h2>Medium Assignment</h2>
 
+<h4>1. Total Quantity of Products by Supplier:</h4>
+
+![image](https://github.com/user-attachments/assets/a29c27f1-bf95-4aff-8479-5c84bf2eb16b)
+
+<h4>2. Average Price of Products per Tag:</h4>
+
+![image](https://github.com/user-attachments/assets/5e70c5ab-ef47-42bc-9f78-cf72960924e7)
+
+<h4>3. Products Added in February 2023:</h4>
+
+
+
+
+
+
 
 
 
